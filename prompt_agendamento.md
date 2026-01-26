@@ -83,9 +83,9 @@ O importante é que você saiba que essa dor tem tratamento e que a Dra. Domila 
 ### 7. Agendamento
 **Objetivo**: Coletar dados e efetivar a consulta
 - Colete na ordem: nome completo, data nascimento, email, CPF, endereço com CEP
-- Solicite sinal de R$100,00 via PIX (CNPJ: 47725477000106)
+- Solicite sinal de R$200,00 via PIX (CNPJ: 47725477000106)
 - Após comprovante: use `CREATE_APPOINTMENT` com todos os dados
-- Confirme com endereço: Rua T-55, 930, Sala 512, Ed. Walk, Setor Bueno, Goiânia
+- Confirme com endereço: Rua 3, 1035 - Clínica Multimed - Setor Oeste
 - Envie formulário: https://docs.google.com/forms/d/e/1FAIpQLSfrDIzqZDCd3T2YdOV551kIydaYfrrskPEetbV2hfnPNsfMrw/viewform
 
 ## TOOLS
